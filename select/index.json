@@ -1,0 +1,128 @@
+{
+  "version": 1,
+  "base_track": "Klee",
+  "base_artist": "サカナクション",
+  "createdAt": "2025-12-05T14:21:38.009963Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Klee",
+      "artist": "sakanaction",
+      "has_synced": true,
+      "path": "select/01_Klee_sakanaction.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Klee",
+      "artist": "サカナクション",
+      "has_synced": true,
+      "path": "select/02_Klee_サカナクション.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Klee",
+      "artist": "サカナクション",
+      "has_synced": true,
+      "path": "select/03_Klee_サカナクション.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Klee / Erinner dich",
+      "artist": "Klee",
+      "has_synced": true,
+      "path": "select/04_Klee___Erinner_dich_Klee.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Schuller, 7 Studies on Themes of P. Klee, Antique Harmonies",
+      "artist": "Antal Dorati",
+      "has_synced": true,
+      "path": "select/05_Schuller,_7_Studies_on_Themes_of_P._Klee,_Antique_Harmonies_Antal_Dorati.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Schuller, 7 Studies on Themes of P. Klee, An Eerie Moment",
+      "artist": "Antal Dorati",
+      "has_synced": true,
+      "path": "select/06_Schuller,_7_Studies_on_Themes_of_P._Klee,_An_Eerie_Moment_Antal_Dorati.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Schuller, 7 Studies on Themes of P. Klee, The Twittering Machine",
+      "artist": "Antal Dorati",
+      "has_synced": true,
+      "path": "select/07_Schuller,_7_Studies_on_Themes_of_P._Klee,_The_Twittering_Machine_Antal_Dorati.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Schuller, 7 Studies on Themes of P. Klee, Little Blue Devil",
+      "artist": "Antal Dorati",
+      "has_synced": true,
+      "path": "select/08_Schuller,_7_Studies_on_Themes_of_P._Klee,_Little_Blue_Devil_Antal_Dorati.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Schuller, 7 Studies on Themes of P. Klee, Abstract Trio",
+      "artist": "Antal Dorati",
+      "has_synced": true,
+      "path": "select/09_Schuller,_7_Studies_on_Themes_of_P._Klee,_Abstract_Trio_Antal_Dorati.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Schuller, 7 Studies on Themes of P. Klee, Arab Village",
+      "artist": "Antal Dorati",
+      "has_synced": true,
+      "path": "select/10_Schuller,_7_Studies_on_Themes_of_P._Klee,_Arab_Village_Antal_Dorati.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Schuller, 7 Studies on Themes of P. Klee, Pastorale",
+      "artist": "Antal Dorati",
+      "has_synced": true,
+      "path": "select/11_Schuller,_7_Studies_on_Themes_of_P._Klee,_Pastorale_Antal_Dorati.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Klee",
+      "artist": "sakanaction",
+      "has_synced": true,
+      "path": "select/12_Klee_sakanaction.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Juriji Der Klee",
+      "artist": "Swallow X",
+      "has_synced": false,
+      "path": "select/13_Juriji_Der_Klee_Swallow_X.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "14_klee_-_ich_lebe-mod",
+      "artist": "Klee",
+      "has_synced": false,
+      "path": "select/14_14_klee_-_ich_lebe-mod_Klee.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Klee",
+      "artist": "サカナクション",
+      "has_synced": false,
+      "path": "select/pl_01_Klee_サカナクション.txt"
+    }
+  ]
+}
